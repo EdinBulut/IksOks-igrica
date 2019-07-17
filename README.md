@@ -1,1 +1,1 @@
-# IksOks-igrica
+# XO game
